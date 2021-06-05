@@ -72,5 +72,4 @@ relation1.addKid(user3.id);
 relation1.addKid(user4.id);
 relation1.addKid(user5.id);
 
-user1.print();
-user5.print();
+console.log(all);
