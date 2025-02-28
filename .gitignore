@@ -2,3 +2,4 @@ client/pnpm-lock.yaml
 client/.next
 client/node_modules
 .vscode
+idea.md
